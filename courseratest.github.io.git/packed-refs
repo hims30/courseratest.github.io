@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+c68e67146b7d3a7934d81e827c0338e09ab6bddd refs/heads/hims30-patch-1
+2eb2e49a98c814265d709ca596689792c02b3ecb refs/heads/master
+c68e67146b7d3a7934d81e827c0338e09ab6bddd refs/pull/1/head
+712f83fa4b26aaab782f56e3b062ba808848ea12 refs/pull/1/merge
